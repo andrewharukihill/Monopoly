@@ -1,7 +1,6 @@
 ## An Economic Analysis of the Monopoly
 
-This repository holds the paper ('MonopolyAndrewHill.pdf'), code ('Monopoly.py'), and data ('Monopoly.csv') for 
-my research into the Monopoly boardgame.
+This repository holds the paper ('MonopolyAndrewHill.pdf'), code ('Monopoly.py'), data ('Monopoly.csv'), and data visualizations (/Graphs) for my research into the Monopoly boardgame.
 
 ### Citation: 
 
